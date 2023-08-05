@@ -1,8 +1,6 @@
 # Python Beginner's Cheat Sheet
 
-This repository contains a comprehensive Python cheat sheet, designed specifically for beginners who want to get a quick overview of Python basics.
-
-The cheat sheet covers:
+The [Python Beginner's Cheat Sheet](./Python_Beginners_Cheat_Sheet.md) provides a quick overview of Python basics, including:
 
 - Variables and Data Types
 - Basic Operators
