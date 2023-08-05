@@ -1,5 +1,3 @@
-markdown
-Copy code
 # Python Beginner's Cheat Sheet
 
 ## Variables and Data Types
