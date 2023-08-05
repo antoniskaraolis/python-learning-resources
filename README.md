@@ -16,6 +16,23 @@ The [Python Beginner's Cheat Sheet](./Python_Beginners_Cheat_Sheet.md) provides 
 - Error Handling
 - File I/O
 
+## Intermediate Cheat Sheet
+
+The [Python Intermediate Cheat Sheet](./Python_Intermediate_Cheat_Sheet.md) takes things a step further, covering:
+
+- List Comprehensions
+- Dictionary Comprehensions
+- Set Comprehensions
+- Generators
+- Decorators
+- Error Handling with else and finally
+- Using *args and **kwargs
+- Working with Files
+- Lambda Functions
+- Using map, filter, and reduce
+- Working with Modules and Packages
+- Working with Iterators and Generators
+
 ## Usage
 
 Feel free to use this repository to guide your Python learning journey. You can either read the cheat sheet directly on GitHub or clone this repository to your local machine for offline use.
