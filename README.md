@@ -2,7 +2,7 @@
 
 This repository contains comprehensive Python cheat sheets, designed for both beginners and intermediate learners.
 
-# Python Beginner's Cheat Sheet
+## Python Beginner's Cheat Sheet
 
 The [Python Beginner's Cheat Sheet](./Python_Beginners_Cheat_Sheet.md) provides a quick overview of Python basics, including:
 
