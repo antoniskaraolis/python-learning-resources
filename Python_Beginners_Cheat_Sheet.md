@@ -61,11 +61,16 @@ for i in range(5):
 while condition:
     # Do something
 ```
+## Functions
 
+```python
 def my_function(param1, param2):
     # Do something
     return result
+```
+## Classes and Objects
 
+```python
 class MyClass:
     def __init__(self, param1, param2):
         self.param1 = param1
@@ -76,20 +81,23 @@ class MyClass:
 
 my_object = MyClass('value1', 'value2')    # Create object
 my_object.my_method()    # Call method
-
+```
+## Error Handling
+```python
 try:
     # Do something
 except Exception as e:
     # Handle exception
 finally:
     # Execute cleanup code
-
+```
+## File I/0
+```python
 with open('myfile.txt', 'r') as file:
     content = file.read()    # Read file
 
 with open('myfile.txt', 'w') as file:
     file.write('Hello, world!')    # Write to file
+```
 
-
-
-Please remember that this cheat sheet covers only the very basics of Python. Python is a vast language with many built-in features and third-party libraries. You will continue learning more about Python as you gain more experience and work on more projects.
+#### Please remember that this cheat sheet covers only the very basics of Python. Python is a vast language with many built-in features and third-party libraries. You will continue learning more about Python as you gain more experience and work on more projects.
