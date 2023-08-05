@@ -7,14 +7,19 @@ int_var = 10    # Integer
 float_var = 10.5    # Float
 string_var = "Hello, world!"    # String
 boolean_var = True    # Boolean
+```
+
+## Operators
 
 # Arithmetic
+```python
 add = 5 + 5    # Addition
 sub = 5 - 2    # Subtraction
 mul = 3 * 3    # Multiplication
 div = 10 / 2    # Division
 mod = 10 % 3    # Modulus
 exp = 2 ** 3    # Exponentiation
+```
 
 # Comparison
 eq = 5 == 5    # Equal
