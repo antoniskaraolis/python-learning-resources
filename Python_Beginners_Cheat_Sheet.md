@@ -9,7 +9,7 @@ string_var = "Hello, world!"    # String
 boolean_var = True    # Boolean
 ```
 
-## Operators
+## Basic Operators
 
 ```python
 # Arithmetic
@@ -28,15 +28,23 @@ lt = 3 < 5    # Less than
 ge = 5 >= 5    # Greater than or equal to
 le = 3 <= 5    # Less than or equal to
 ```
+## Lists
 
+```python
 my_list = [1, 2, 3, 4, 5]    # Create list
 my_list.append(6)    # Append to list
 my_list.remove(1)    # Remove from list
+```
+## Dictionaries
 
+```python
 my_dict = {'key': 'value'}    # Create dictionary
 my_dict['new_key'] = 'new_value'    # Add to dictionary
 del my_dict['key']    # Remove from dictionary
+```
+## Control Flow
 
+```python
 # If statement
 if condition:
     # Do something
@@ -52,6 +60,7 @@ for i in range(5):
 # While loop
 while condition:
     # Do something
+```
 
 def my_function(param1, param2):
     # Do something
