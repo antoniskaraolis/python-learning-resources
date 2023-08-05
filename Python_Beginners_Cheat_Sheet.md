@@ -11,15 +11,14 @@ boolean_var = True    # Boolean
 
 ## Operators
 
-# Arithmetic
 ```python
+# Arithmetic
 add = 5 + 5    # Addition
 sub = 5 - 2    # Subtraction
 mul = 3 * 3    # Multiplication
 div = 10 / 2    # Division
 mod = 10 % 3    # Modulus
 exp = 2 ** 3    # Exponentiation
-```
 
 # Comparison
 eq = 5 == 5    # Equal
@@ -28,6 +27,7 @@ gt = 5 > 3    # Greater than
 lt = 3 < 5    # Less than
 ge = 5 >= 5    # Greater than or equal to
 le = 3 <= 5    # Less than or equal to
+```
 
 my_list = [1, 2, 3, 4, 5]    # Create list
 my_list.append(6)    # Append to list
