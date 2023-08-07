@@ -41,6 +41,26 @@ The [Python Intermediate Cheat Sheet](./Python_Intermediate_Cheat_Sheet.md) take
 
 You can find them [here](./Python_Intermediate_Exercises_Solutions.md).
 
+## Advanced Cheat Sheet
+
+The [Python Advanced Cheat Sheet](./Python_Advanced_Cheat_Sheet.md) covers more complex topics, including:
+
+- Advanced List Comprehensions
+- Advanced Dictionary Comprehensions
+- Context Managers
+- Generators with Expressions
+- Decorators with Arguments
+- Error Handling with Custom Exceptions
+- Advanced Object-Oriented Programming
+- Magic Methods and Operator Overloading
+- Advanced Iterators and Generators
+- Metaclasses
+- Asynchronous Programming
+
+**Advanced Cheat Sheet Exercises and Solutions:**
+
+Coming soon!
+
 ## Usage
 
 Feel free to use this repository to guide your Python learning journey. You can either read the cheat sheet directly on GitHub or clone this repository to your local machine for offline use.
