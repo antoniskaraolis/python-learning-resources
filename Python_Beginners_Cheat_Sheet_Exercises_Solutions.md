@@ -3,7 +3,7 @@
 ## Variables and Data Types
 
 * **Exercise:** Define a string, integer, float, and boolean variable. Print the type of each variable.
-* **Solution:**
+**Solution:**
 ```pyton
 string_var = "Hello, world!"
 int_var = 10
