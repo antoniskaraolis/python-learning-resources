@@ -1,5 +1,6 @@
 # Python Beginner's Exercises and Solutions
 
+
 ## Variables and Data Types
 
 **Exercise:** Define a string, integer, float, and boolean variable. Print the type of each variable.
