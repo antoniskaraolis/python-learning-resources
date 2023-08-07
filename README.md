@@ -18,7 +18,7 @@ The [Python Beginner's Cheat Sheet](./Python_Beginners_Cheat_Sheet.md) provides 
 
 **Beginner's Cheat Sheet Exercises and Solutions:**
 
-- You can find them [here](./Python_Beginners_Exercises_Solutions.md).
+You can find them [here](./Python_Beginners_Exercises_Solutions.md).
 
 ## Intermediate Cheat Sheet
 
