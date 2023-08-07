@@ -17,6 +17,22 @@ print(type(float_var))  # <class 'float'>
 print(type(boolean_var))  # <class 'bool'>
 ```
 
+## Basic Operators
+
+**Exercise:** Perform arithmetic operations: addition, subtraction, multiplication, and division between two numbers.
+
+**Solution:**
+```python
+a = 10
+b = 5
+
+print(a + b)  # 15
+print(a - b)  # 5
+print(a * b)  # 50
+print(a / b)  # 2.0
+```
+
+
 
 
 
