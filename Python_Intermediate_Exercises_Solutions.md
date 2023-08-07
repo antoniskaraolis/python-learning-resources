@@ -160,7 +160,7 @@ print(math.log(number))  # Output: 4.605170185988092
 
 ## Working with Iterators and Generators
 
-**Exercise:** Create an iterator class that iterates from 1 up to a number **`n`**.
+**Exercise:** Create an iterator class that iterates from 1 up to a number **'n'**.
 
 **Solution:**
 ```python
