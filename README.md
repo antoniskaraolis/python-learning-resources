@@ -37,6 +37,10 @@ The [Python Intermediate Cheat Sheet](./Python_Intermediate_Cheat_Sheet.md) take
 - Working with Modules and Packages
 - Working with Iterators and Generators
 
+**Intermediate Cheat Sheet Exercises and Solutions:**
+
+You can find them [here](./Python_Intermediate_Exercises_Solutions.md).
+
 ## Usage
 
 Feel free to use this repository to guide your Python learning journey. You can either read the cheat sheet directly on GitHub or clone this repository to your local machine for offline use.
