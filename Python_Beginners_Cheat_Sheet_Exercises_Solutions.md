@@ -2,7 +2,7 @@
 
 ## Variables and Data Types
 
-* **Exercise:** Define a string, integer, float, and boolean variable. Print the type of each variable.
+**Exercise:** Define a string, integer, float, and boolean variable. Print the type of each variable.
 
 **Solution:**
 ```pyton
