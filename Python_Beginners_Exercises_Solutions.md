@@ -5,7 +5,7 @@
 **Exercise:** Define a string, integer, float, and boolean variable. Print the type of each variable.
 
 **Solution:**
-```pyton
+```python
 string_var = "Hello, world!"
 int_var = 10
 float_var = 10.5
