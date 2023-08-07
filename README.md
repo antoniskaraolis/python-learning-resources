@@ -59,7 +59,7 @@ The [Python Advanced Cheat Sheet](./Python_Advanced_Cheat_Sheet.md) covers more 
 
 **Advanced Cheat Sheet Exercises and Solutions:**
 
-Coming soon!
+You can find them [here](./Python_Advanced_Exercises_Solutions.md).
 
 ## Usage
 
