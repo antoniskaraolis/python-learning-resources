@@ -16,6 +16,10 @@ The [Python Beginner's Cheat Sheet](./Python_Beginners_Cheat_Sheet.md) provides 
 - Error Handling
 - File I/O
 
+**Beginner's Cheat Sheet Exercises and Solutions:**
+
+- You can find them [here](./Python_Beginners_Exercises_Solutions.md).
+
 ## Intermediate Cheat Sheet
 
 The [Python Intermediate Cheat Sheet](./Python_Intermediate_Cheat_Sheet.md) takes things a step further, covering:
