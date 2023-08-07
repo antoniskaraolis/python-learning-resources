@@ -20,6 +20,48 @@ square_dict = {n: n**2 for n in range(1, 6)}
 print(square_dict)  # Output: {1: 1, 2: 4, 3: 9, 4: 16, 5: 25}
 ```
 
+## Set Comprehensions
+
+**Exercise:** Use a set comprehension to create a set of squares of numbers from -5 to 5.
+
+**Solution:**
+```python
+unique_squares = {n**2 for n in range(-5, 6)}
+print(unique_squares)  # Output: {0, 1, 4, 9, 16, 25}
+```
+
+## Generators
+
+**Exercise:** Create a generator that yields the Fibonacci sequence.
+
+**Solution:**
+```python
+def fibonacci():
+    a, b = 0, 1
+    while True:
+        yield a
+        a, b = b, a + b
+
+fib = fibonacci()
+for _ in range(10):
+    print(next(fib))  # Outputs the first 10 numbers of the Fibonacci sequence
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
