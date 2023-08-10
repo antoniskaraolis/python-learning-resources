@@ -1,6 +1,6 @@
-# Python Cheat Sheets
+# Python Cheat Sheets, Exercises and Solutions
 
-This repository contains comprehensive Python cheat sheets, designed for both beginners and intermediate learners.
+This repository contains comprehensive Python cheat sheets, exercises and solutions designed for beginners, intermediate and advanced learners.
 
 ## Python Beginner's Cheat Sheet
 
